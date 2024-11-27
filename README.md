@@ -16,7 +16,7 @@
 
 1. Run `npm run build` inside `packages/stencil-library` to compile the main library.
 1. Run `npm run build` inside `packages/vue-library` to compile the Vue library.
-1. Check your components running `npm run dev` inside `packages/react-vue-app`.
+1. Check your components running `npm run dev` inside `packages/vue-sample-app`.
 
 ## Building Angular library
 
